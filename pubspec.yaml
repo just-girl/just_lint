@@ -1,0 +1,7 @@
+name: just_lint
+description: This package contains a recommended set of lints for Flutter apps, packages, and plugins to encourage good coding practices.
+version: 1.0.0
+repository: 'none'
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'

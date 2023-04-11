@@ -80,7 +80,6 @@ linter:
     - await_only_futures
     - camel_case_extensions
     - camel_case_types
-    - cascade_invocations
     - cast_nullable_to_non_nullable
     - combinators_ordering
     - conditional_uri_does_not_exist
@@ -115,7 +114,7 @@ linter:
     - noop_primitive_operations
     - null_check_on_nullable_type_parameter
     - null_closures
-    - omit_local_variable_types
+#    - omit_local_variable_types
     - one_member_abstracts
     - only_throw_errors
     - overridden_fields
@@ -165,7 +164,6 @@ linter:
     - sized_box_shrink_expand
     - slash_for_doc_comments
     - sort_child_properties_last
-    - sort_constructors_first
     - sort_unnamed_constructors_first
     - tighten_type_of_initializing_formals
     - type_annotate_public_apis
